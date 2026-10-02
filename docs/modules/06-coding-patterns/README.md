@@ -16,7 +16,7 @@ Back to the [module map](../../../README.md) · Full [syllabus](../../../src/syl
 - [ ] Merge Intervals
 - [ ] BFS
 - [ ] DFS
-- [ ] Backtracking
+- [x] Backtracking
 - [ ] Greedy
 - [ ] Divide & Conquer
 - [ ] Dynamic Programming
@@ -24,6 +24,8 @@ Back to the [module map](../../../README.md) · Full [syllabus](../../../src/syl
 ## Notes and examples
 
 Add short explanations, Java gotchas, and small examples here. Prefer links to runnable solutions in `src/`.
+
+Worked example: [Generate Parentheses](../../problems/Generate-Parentheses.md) uses backtracking with pruning.
 
 ## Practice log
 
