@@ -54,8 +54,8 @@ public class MultithreadingDemo {
 
         System.out.println("2. Starting workers");
 
-        worker1.start();                          // BREAKPOINT 5
-        worker2.start();                          // BREAKPOINT 6
+        worker1.run();                          // BREAKPOINT 5
+        worker2.run();                          // BREAKPOINT 6
 
         System.out.println("3. Main thread is waiting");
 
